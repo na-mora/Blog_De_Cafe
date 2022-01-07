@@ -3,4 +3,6 @@ Esta pagina web se ha desarrollado para publicar consejos y clases sobre la prep
 
 Este proyecto ha sido creado usando tecnologias como HTML5, CSS3 y Javascript
 
+Ha sido desplegado en Netlify en https://ecstatic-meninsky-d7f04a.netlify.app/
+
 - Alejandro Mora
